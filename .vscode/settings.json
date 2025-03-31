@@ -1,0 +1,6 @@
+{
+  "python.analysis.aiCodeActions": {
+  },
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.defaultInterpreterPath": "/opt/tools/.pyenv/versions/cm-3070/bin/python"
+}
